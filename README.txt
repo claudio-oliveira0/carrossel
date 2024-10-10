@@ -1,0 +1,1 @@
+"Hello, a simple yet very well-detailed and beautiful project, I worked on it with great care in order to produce clean and functional code."
